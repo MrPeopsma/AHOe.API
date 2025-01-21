@@ -1,0 +1,122 @@
+[
+    {
+        "IndexNummer": "0",
+        "Naam": "Rotgans",
+        "WetenschappelijkeNaam": "Branta bernicla",
+        "Link": "https://waarneming.nl/species/172//?010120241231",
+        "Zeldzaamheid": "🔵",
+        "PuntenAantal": "4",
+        "AantalWaarnemingen": "262597",
+        "AantalIndividuenWaargenomen": "24830798",
+        "Familie": "Anatidae",
+        "Genus": "Branta"
+    },
+    {
+        "IndexNummer": "1",
+        "Naam": "Roodhalsgans",
+        "WetenschappelijkeNaam": "Branta ruficollis",
+        "Link": "https://waarneming.nl/species/313//?1958031520241231",
+        "Zeldzaamheid": "🟡",
+        "PuntenAantal": "7",
+        "AantalWaarnemingen": "33899",
+        "AantalIndividuenWaargenomen": "54668",
+        "Familie": "Anatidae",
+        "Genus": "Branta"
+    },
+    {
+        "IndexNummer": "2",
+        "Naam": "Brandgans",
+        "WetenschappelijkeNaam": "Branta leucopsis",
+        "Link": "https://waarneming.nl/species/79//?1888122720241231",
+        "Zeldzaamheid": "🟢",
+        "PuntenAantal": "2",
+        "AantalWaarnemingen": "465571",
+        "AantalIndividuenWaargenomen": "129775292",
+        "Familie": "Anatidae",
+        "Genus": "Branta"
+    },
+    {
+        "IndexNummer": "3",
+        "Naam": "Kleine Canadese Gans",
+        "WetenschappelijkeNaam": "Branta hutchinsii",
+        "Link": "https://waarneming.nl/species/758//?1997030920130227",
+        "Zeldzaamheid": "🔴",
+        "PuntenAantal": "8",
+        "AantalWaarnemingen": "248",
+        "AantalIndividuenWaargenomen": "248",
+        "Familie": "Anatidae",
+        "Genus": "Branta"
+    },
+    {
+        "IndexNummer": "4",
+        "Naam": "Ross' Gans",
+        "WetenschappelijkeNaam": "Anser rossii",
+        "Link": "https://waarneming.nl/species/317//?1985113020241229",
+        "Zeldzaamheid": "🔴",
+        "PuntenAantal": "9",
+        "AantalWaarnemingen": "5626",
+        "AantalIndividuenWaargenomen": "7734",
+        "Familie": "Anatidae",
+        "Genus": "Anser"
+    },
+    {
+        "IndexNummer": "5",
+        "Naam": "Sneeuwgans",
+        "WetenschappelijkeNaam": "Anser caerulescens",
+        "Link": "https://waarneming.nl/species/327//?1901111720241230",
+        "Zeldzaamheid": "🟡",
+        "PuntenAantal": "6",
+        "AantalWaarnemingen": "13480",
+        "AantalIndividuenWaargenomen": "18301",
+        "Familie": "Anatidae",
+        "Genus": "Anser"
+    },
+    {
+        "IndexNummer": "6",
+        "Naam": "Grauwe Gans",
+        "WetenschappelijkeNaam": "Anser anser",
+        "Link": "https://waarneming.nl/species/104//?1895051420241231",
+        "Zeldzaamheid": "🟢",
+        "PuntenAantal": "1",
+        "AantalWaarnemingen": "1001478",
+        "AantalIndividuenWaargenomen": "63567301",
+        "Familie": "Anatidae",
+        "Genus": "Anser"
+    },
+    {
+        "IndexNummer": "7",
+        "Naam": "Taigarietgans",
+        "WetenschappelijkeNaam": "Anser fabalis",
+        "Link": "https://waarneming.nl/species/338//?1929010820240401",
+        "Zeldzaamheid": "🔴",
+        "PuntenAantal": "9",
+        "AantalWaarnemingen": "3057",
+        "AantalIndividuenWaargenomen": "94640",
+        "Familie": "Anatidae",
+        "Genus": "Anser"
+    },
+    {
+        "IndexNummer": "8",
+        "Naam": "Kleine Rietgans",
+        "WetenschappelijkeNaam": "Anser brachyrhynchus",
+        "Link": "https://waarneming.nl/species/1384//?1906112820241231",
+        "Zeldzaamheid": "🔵",
+        "PuntenAantal": "4",
+        "AantalWaarnemingen": "46352",
+        "AantalIndividuenWaargenomen": "3100715",
+        "Familie": "Anatidae",
+        "Genus": "Anser"
+    },
+    {
+        "IndexNummer": "9",
+        "Naam": "Toendrarietgans",
+        "WetenschappelijkeNaam": "Anser serrirostris",
+        "Link": "https://waarneming.nl/species/341//?1941122720241231",
+        "Zeldzaamheid": "🔵",
+        "PuntenAantal": "3",
+        "AantalWaarnemingen": "169690",
+        "AantalIndividuenWaargenomen": "43333099",
+        "Familie": "Anatidae",
+        "Genus": "Anser"
+    }
+]
